@@ -1,4 +1,4 @@
-# sparkle: Apache Spark applications in Haskell
+## sparkle: Apache Spark applications in Haskell
 
 [![CircleCI](https://circleci.com/gh/tweag/sparkle.svg?style=svg)](https://circleci.com/gh/tweag/sparkle)
 
